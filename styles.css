@@ -1,0 +1,22 @@
+
+h1 {
+  color: blue;
+  text-align: center;
+}
+
+.add {
+  color: red;
+  text-align: center;
+}
+
+p {
+  color: red;
+}
+
+.banner {
+  background-color: yellow;
+  padding: 10px;
+  border: 10px solid powderblue;
+  margin: 5px;
+  text-align: center;
+}
