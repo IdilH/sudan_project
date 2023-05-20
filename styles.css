@@ -1,3 +1,6 @@
+body {
+  background-color: white;
+}
 
 h1 {
   color: blue;
@@ -14,9 +17,22 @@ p {
 }
 
 .banner {
-  background-color: yellow;
+  background-color: red;
   padding: 10px;
-  border: 10px solid powderblue;
+  border: 10px solid green;
   margin: 5px;
   text-align: center;
+  color: black;
+}
+
+.banner a {
+  color: black;
+}
+
+.add {
+  border: 5px solid orange;
+  background-color: orange;
+  width: 40%;
+  margin-right: 30%;
+  margin-left: 30%;
 }
